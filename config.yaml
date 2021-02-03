@@ -5,7 +5,7 @@ params:
   color_scheme: dark
   accent_color: pink
   header:
-    title: Exto
+    title: Chefs Table
     has_nav: true
     nav_links:
       - label: Home
