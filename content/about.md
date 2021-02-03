@@ -1,7 +1,6 @@
 ---
 title: About Us
 subtitle: "Created\_ to share the joy of cooking, and provide stable alternate income for chefs and cooks."
-image: images/about.jpg
 image_alt: A man taking a picture
 layout: page
 ---
