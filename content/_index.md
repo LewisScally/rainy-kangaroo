@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, take your seat at the chefs table'
+    title: 'Hi, take your seat at the chef''s table'
     content: >
       Discover your inner chef, or hone your skills with an expert. Offering all
       types of cookery, provided by everyone from home cooks to Michelin starred
