@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, take your seat at the chefs table'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Discover your inner chef, or hone your skills with an expert. Offering all
+      types of cookery, provided by everyone from home cooks to Michelin starred
+      chef's.
     actions:
       - label: Let's talk
         url: /contact
