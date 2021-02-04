@@ -7,11 +7,24 @@ thumb_image_alt: 'White, black, and red shoe sole'
 image_alt: 'White, black, and red shoe sole'
 layout: project
 ---
+Hi, I'm John Tait. Professional chef, and enthused home cook. I will be bringing you a selection of interactive home cooking sessions. That form a part of a complete course in home bakery. Sessions are available to purchase now, for the course beginning 10/02/20
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+First Cook along to be held 'insert date' and will consist of xyz, the first 30mins/first session are free of charge.
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+Book your spot
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+View past sessions
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+Course Overview
+
+You will be able to cook along with myself and other participants, for a private session book me here. Participants are able to engage with video and audio. Raising your hand to ask questions, with the option to enable your video too so you John can see your cooking too. Record sessions to enjoy and share later.
+
+Since a young age I've been inspired too cook― John Tait
+
+> "Since a young age I've been inspired too cook" - Antoine de Saint-Exupery
+
+See other available interactive sessions, view by category and more.
+
+Transcription and recording of sessions, for later download or online viewing. 
+
+Live stream session to Youtube
