@@ -10,6 +10,8 @@ layout: page
 
 Make recordings available for all with transcriptions, or keep them to a private audience, the choice is down to you and the instructor.
 
+
+
 #### Professional chef looking to diversify their income? [Apply to host your own sessions](contact)
 
 ### Benefits:
