@@ -8,9 +8,7 @@ image_alt: 'White, black, and red shoe sole'
 layout: project
 thumb_image: images/about.jpg
 ---
-
-
-[Visit Room](lchat.co.uk/ct.johnt)
+[Visit Room](https://lchat.co.uk/ct.johnt)
 
 Purchase Now
 
