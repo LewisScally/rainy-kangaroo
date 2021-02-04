@@ -15,7 +15,7 @@ sections:
         style: button
       - label: Signup
         url: lorem-ipsum
-        style: link
+        style: button
         icon_class: lorem-ipsum
         new_window: false
         no_follow: false
