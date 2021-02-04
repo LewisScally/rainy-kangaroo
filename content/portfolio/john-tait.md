@@ -8,7 +8,11 @@ image_alt: 'White, black, and red shoe sole'
 layout: project
 thumb_image: images/about.jpg
 ---
+
+
 [Visit Room](lchat.co.uk/ct.johnt)
+
+Purchase Now
 
 Hi, I'm John Tait. Professional chef, and enthused home cook. I will be bringing you a selection of interactive home cooking sessions. That form a part of a complete course in home bakery. Sessions are available to purchase now, for the course beginning 10/02/20
 
