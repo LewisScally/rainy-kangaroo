@@ -27,8 +27,5 @@ You will be able to cook along with myself and other participants, for a private
 Since a young age I've been inspired too cook
 
 > "Since a young age I've been inspired too cook" ― John Tait
-> See other available interactive sessions, view by category and more.
 
-Transcription and recording of sessions, for later download or online viewing.
-
-Live stream session to Youtube
+See other available interactive sessions, view by category and more.
