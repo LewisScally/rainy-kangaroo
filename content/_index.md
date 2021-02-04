@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: button
       - label: Signup
-        url: lorem-ipsum
+        url: contact
         style: icon
         icon_class: lorem-ipsum
         new_window: false
