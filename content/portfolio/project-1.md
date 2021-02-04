@@ -19,12 +19,11 @@ Course Overview
 
 You will be able to cook along with myself and other participants, for a private session book me here. Participants are able to engage with video and audio. Raising your hand to ask questions, with the option to enable your video too so you John can see your cooking too. Record sessions to enjoy and share later.
 
-Since a young age I've been inspired too cook― John Tait
+Since a young age I've been inspired too cook
 
-> "Since a young age I've been inspired too cook" - Antoine de Saint-Exupery
+> "Since a young age I've been inspired too cook" ― John Tait
+> See other available interactive sessions, view by category and more.
 
-See other available interactive sessions, view by category and more.
-
-Transcription and recording of sessions, for later download or online viewing. 
+Transcription and recording of sessions, for later download or online viewing.
 
 Live stream session to Youtube
