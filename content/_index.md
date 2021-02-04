@@ -11,7 +11,7 @@ sections:
       chef's.
     actions:
       - label: About
-        url: /contact
+        url: /about
         style: button
       - label: Signup
         url: contact
