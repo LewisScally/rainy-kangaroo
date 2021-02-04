@@ -10,7 +10,7 @@ sections:
       types of cookery, provided by everyone from home cooks to Michelin starred
       chef's.
     actions:
-      - label: Let's talk
+      - label: 'View '
         url: /contact
         style: button
       - label: Signup
